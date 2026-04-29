@@ -93,7 +93,7 @@ async def create_one_short(short_number):
         script_text = scene.get('text', 'Financial Tip')
 
         # Strong Hinglish SEO Title for Financial Niche
-        title = f"Paise Bachane ka Yeh Hack 😱 {script_text[:55]}... | Financial Secret"
+        title = f"Paise Bachane ka Yeh Hack 😱 {script_text[:35]}... | Financial Secret"
 
         # Better Description for Financial Niche
         description = f"""💰 Yeh Hack Aaj Hi Try Karo!
@@ -116,7 +116,8 @@ Copyright Disclaimer Under Section 107 of the Copyright Act 1976,
  that might otherwise be infringing. Non-profit, educational,
  or personal use tips the balance in favor of fair use.
 
-#FinancialHacks #PaiseBachaneKeTarike #BusinessGrowth #SideIncome #MoneyTips #LoanKhatam #TradingTips"""
+#FinancialHacks #PaiseBachaneKeTarike #BusinessGrowth #SideIncome #MoneyTips #LoanKhatam #TradingTips #trading strategies #investment tips hindi #side income ideas #business growth hacks #loan khatam karne ka tarika #practical financial advice #money saving tips 
+#financial freedom #business ideas hindi #stock market for beginners #tax saving tips #how to repay loan fast #rich habits """
 
         video_path = "assets/final/final_short.mp4"
 
