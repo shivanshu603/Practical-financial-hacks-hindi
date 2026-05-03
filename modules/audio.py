@@ -19,7 +19,7 @@ class AudioEngine:
                 communicate = edge_tts.Communicate(
                     text=text,
                     voice=self.voice,
-                    rate="+14%",      # Thoda fast for energy
+                    rate="+18%",      # Thoda fast for energy
                     pitch="-3Hz",    # Masculine aur deep feel
                     volume="+8%"
                 )
